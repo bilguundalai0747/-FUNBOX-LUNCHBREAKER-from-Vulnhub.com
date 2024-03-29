@@ -39,4 +39,30 @@ this write up is in mongolian cuz of academic reasons.
 
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/63528e3c-c2a5-4baa-9575-c8db8f1f6900)
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/09d06a19-c8bb-44c0-8645-f72512eece81)
+
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/d6eed64b-1a25-4a58-bae9-a92eb1423689)
+
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/10eb98fa-a42a-4db4-852a-951b6e2563bd)
+
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/fdf4a74e-c5ff-49b4-9fb4-d15c909f2b2a)
+
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/3ff56016-79ef-4b82-aa0b-5fa4ea127639)
+
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/8d0db934-17fa-4b2a-8632-c7f8b2da5eee)
+
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/e64bc7c2-e2dd-450a-9f69-f12324427925)
+
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/e6a82d08-d9cb-4ba2-838c-550225bae7e1)
+
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/6eb902f9-eba0-441b-b48a-f1e4030db487)
+
+
+
+
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/2aeecd06-5cfe-4b4e-b6c4-34318d1c1baa)
+
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/3529cd4d-c604-4968-a439-c92293bbf778)
+
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/5bca32de-8e93-401b-a525-683da7d0d18a)
 
