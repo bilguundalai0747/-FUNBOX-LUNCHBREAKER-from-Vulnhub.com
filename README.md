@@ -75,5 +75,8 @@ ftp server ээс авсан файлуудаа нэрийг нь өөрчлөх
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/5bca32de-8e93-401b-a525-683da7d0d18a)
 
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/e2bce623-266e-4bdf-a10f-49d1a7d81812)
+
+root flag from deployed machine.
 DONE :))
 
