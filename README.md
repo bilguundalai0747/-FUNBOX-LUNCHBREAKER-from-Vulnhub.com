@@ -4,6 +4,7 @@ this write up is in mongolian cuz of academic reasons.
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/d660615a-0b35-4f94-8fc9-a17b80bbf4a5)
 
+netdiscover ( virtual машинуудын network горим bridged байх естойг анхаарна уу)
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/6f8d0e76-2d4e-4d62-9065-5df9a87dc3ba)
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/4e4d11ef-d092-4c40-bbe3-7c7f3aedf2bc)
@@ -28,6 +29,8 @@ this write up is in mongolian cuz of academic reasons.
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/f7ebab5f-424a-4bbe-847f-e4db3bf159f3)
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/66595ae5-5dbe-4635-bbd9-f112f10ce694)
+
+jules pass: sexylady
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/81369567-9c3f-4d92-9b4e-1d39350bfdc1)
 
