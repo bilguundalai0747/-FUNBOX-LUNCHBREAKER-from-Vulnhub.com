@@ -30,19 +30,20 @@ netdiscover ( virtual машинуудын network горим bridged байх �
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/f7ebab5f-424a-4bbe-847f-e4db3bf159f3)
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/66595ae5-5dbe-4635-bbd9-f112f10ce694)
 
-jules pass: sexylady
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/81369567-9c3f-4d92-9b4e-1d39350bfdc1)
 
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/35286bf7-0b54-4f88-8772-5f2b9b3875eb)
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/004a7fbb-f98d-427e-a27c-0e89f9418f28)
-jules pass: sexylady
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/db535784-c8f1-41dd-8ca6-9585d5143b48)
 
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/63528e3c-c2a5-4baa-9575-c8db8f1f6900)
+
+jules pass: sexylady
+
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/09d06a19-c8bb-44c0-8645-f72512eece81)
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/d6eed64b-1a25-4a58-bae9-a92eb1423689)
