@@ -31,9 +31,10 @@ this write up is in mongolian cuz of academic reasons.
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/81369567-9c3f-4d92-9b4e-1d39350bfdc1)
 
-![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/004a7fbb-f98d-427e-a27c-0e89f9418f28)
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/35286bf7-0b54-4f88-8772-5f2b9b3875eb)
+![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/004a7fbb-f98d-427e-a27c-0e89f9418f28)
+
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/db535784-c8f1-41dd-8ca6-9585d5143b48)
 
