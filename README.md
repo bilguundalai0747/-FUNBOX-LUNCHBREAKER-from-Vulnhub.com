@@ -60,6 +60,8 @@ jules pass: sexylady
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/e64bc7c2-e2dd-450a-9f69-f12324427925)
 
+ftp server ээс авсан файлуудаа нэрийг нь өөрчлөх өө мартуузай.
+
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/e6a82d08-d9cb-4ba2-838c-550225bae7e1)
 
 ![image](https://github.com/bilguundalai0747/FUNBOX-LUNCHBREAKER-from-Vulnhub.com/assets/117107986/6eb902f9-eba0-441b-b48a-f1e4030db487)
